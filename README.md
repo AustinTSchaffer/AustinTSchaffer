@@ -6,4 +6,4 @@ Howdy, welcome to my GitHub profile.
 
 [![Austin's Top Langs](./images/lang-stats.svg)](https://github.com/anuraghazra/github-readme-stats)
 
-Thanks for visiting :wave:!
+Thanks for visiting! :wave:
