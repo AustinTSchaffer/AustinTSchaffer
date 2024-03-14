@@ -41,10 +41,10 @@ Really proud of this one. The `.gif` is super satisfying in my opinion. Check ou
 
 Link: https://github.com/AustinTSchaffer/SudokuSolver
 
-In a similar vein to the previous project, I wrote a solver for the game Sudoku based in equal parts on
-strategies that I have developed playing the game by myself, and on knowledge that I found on an online
-resource containing advanced Sudoku strategies. I didn't want to just end there, so I made sure that the
-solver worked on any game that follwed the same basic rules.
+In a similar vein to the previous project, I wrote a Sudoku solver based in equal parts on strategies that
+I have developed playing the game by myself, and on knowledge that I found on an online resource
+containing advanced Sudoku strategies. I didn't want to just end there, so I made sure that the
+solver worked on any game that follwed the same basic rules:
 
 - Rule 1: The game has some maximum number of types symbols that can be placed into the game.
 - Rule 2: Each cell can only contain one symbol.
