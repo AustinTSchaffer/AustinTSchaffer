@@ -1,7 +1,9 @@
 # Austin Schaffer
 
 Howdy, welcome to my GitHub profile! The sections below outline the projects that I update the most often,
-am the most proud of, or 
+am the most proud of, or want to showcase for some other reason.
+
+Thanks for visiting! :wave:
 
 ## Notebook
 
