@@ -35,7 +35,7 @@ history, but since I've expanded the scope of this repository to cover a variety
 
 Link: https://github.com/AustinTSchaffer/DailyProgrammer/tree/main/GameSolvers/ColorSortPuzzle
 
-![Loading ...](https://github.com/AustinTSchaffer/DailyProgrammer/blob/main/GameSolvers/ColorSortPuzzle/images/Color%20Sort%20Puzzle%20Solver%20Example.gif)
+<img src="https://github.com/AustinTSchaffer/DailyProgrammer/blob/main/GameSolvers/ColorSortPuzzle/images/Color%20Sort%20Puzzle%20Solver%20Example.gif" alt="Animated gif showing a series of test tubes containing colored balls, and a terminal window. The terminal window is running some software which is moving the colored balls between tubes." />
 
 Really proud of this one. The `.gif` is super satisfying in my opinion. Check out the link if you want more details.
 
