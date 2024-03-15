@@ -35,7 +35,7 @@ history, but since I've expanded the scope of this repository to cover a variety
 
 Link: https://github.com/AustinTSchaffer/DailyProgrammer/tree/main/GameSolvers/ColorSortPuzzle
 
-![](https://github.com/AustinTSchaffer/DailyProgrammer/blob/main/GameSolvers/ColorSortPuzzle/images/Color%20Sort%20Puzzle%20Solver%20Example.gif)
+![Loading ...](https://github.com/AustinTSchaffer/DailyProgrammer/blob/main/GameSolvers/ColorSortPuzzle/images/Color%20Sort%20Puzzle%20Solver%20Example.gif)
 
 Really proud of this one. The `.gif` is super satisfying in my opinion. Check out the link if you want more details.
 
